@@ -16,4 +16,4 @@ Ekran dodawania i edycji:
 - Wciśnięcie Delete kasuje wybraną notatkę
 
 Źródło danych:
--Źródło danych proszę zrealizować z wykorzystaniem dotnet-core 3.0 i Entity Framework
+- Źródło danych proszę zrealizować z wykorzystaniem dotnet-core 3.0 i Entity Framework
